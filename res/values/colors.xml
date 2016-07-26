@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="highscore_title">#99ff33</color>
+
+    <color name="black_overlay">#8c8c8c</color>
+
+    <color name="greenAndroid">#14dc35</color>
+
+    <color name="exitRed">#900707</color>
+</resources>
+

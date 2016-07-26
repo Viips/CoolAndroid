@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Cool Android!</string>
+    <string name="app_name">Cool Android</string>
+
+    <string name="highscore_title">Highscore</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="overview1">"HE WAS A NORMAL PERSON UNTIL THEY ASKED HIM TO SKATE!!!</string>
+    <string name="overview2">NOW HES BECOME UNSTOPPABLE SKATER</string>
+    <string name="overview3">CAN YOU HANDLE THE HEAT..........</string>
+    <string name="overview4">LETS TEST YOU OUT</string>
+    <string name="overview5">WELCOME TO THE WORLD OF MOST COOLEST ANDROID EVERY"</string>
+
+
+    //Splash activity button string
+    <string name="start_buttonString">START</string>
+
+    <string name="beginGame">BEGIN</string>
+
+    <string name="main_highscore">HIGHCORE</string>
+
+    <string name="exit">EXIT</string>
+
+    <string name="highscore_backBtn">back</string>
+    <string name="hs_Btn">Click to View High score</string>
+
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_begin_game">BeginGame</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_highscore">HighscoreActivity</string>
+
+    <string name="start">START</string>
+
+    <string name="Game_Title">Game Title</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_test">Test</string>
+</resources>
